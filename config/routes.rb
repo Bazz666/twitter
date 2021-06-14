@@ -11,7 +11,6 @@ Rails.application.routes.draw do
   resources :tweets do 
     post 'retweet', to: "tweets#retweet"
     member do
-      
       put "like", to: "tweets#upvote"
       put "dislike", to: "tweets#downvote"
     end
