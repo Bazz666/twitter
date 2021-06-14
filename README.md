@@ -7,6 +7,5 @@ Things you may want to cover:
 
 * Ruby version : 5.2.3
 * bootstrap version: 4
-* gems: gem 'will_paginate', '~> 3.1.0'
-        gem 'acts_as_votable', '~> 0.13.1'
+* gems: gem 'will_paginate',gem 'acts_as_votable'
 * heroku: https://boiling-cliffs-21823.herokuapp.com/
