@@ -12,7 +12,7 @@ gem 'puma', '~> 3.11'
 
 gem 'will_paginate', '~> 3.1.0'
 
-
+gem 'cancan'
 gem 'acts_as_votable', '~> 0.13.1'
 
 # Use SCSS for stylesheets
