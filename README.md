@@ -9,4 +9,4 @@ Things you may want to cover:
 * bootstrap version: 4
 * gems: gem 'will_paginate', '~> 3.1.0'
         gem 'acts_as_votable', '~> 0.13.1'
-* heroku: https://safe-oasis-05659.herokuapp.com/
+* heroku: https://boiling-cliffs-21823.herokuapp.com/
